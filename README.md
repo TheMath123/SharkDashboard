@@ -1,9 +1,9 @@
 # Shark Dashboard
-Shark is a simple administrative panel, dedicated to hosting game servers on unix operating systems.
+Shark Dashboard is an administrative panel, dedicated to maintenance and control of game servers hosted on unix operating systems.
 
-_under construction..._
+_under development..._
 
 **Português:**</br>
-Shark é um painel administrativo simples, voltado para hospedagem de servidores de jogos em sistemas operacionais unix.
+Shark Dashboard é um painel administrativo, voltado para manutenção e controle servidores de jogos em hospedado em sistemas operacionais unix.
 
-_em construção..._
+_em desenvolvimento..._
