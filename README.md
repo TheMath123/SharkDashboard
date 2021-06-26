@@ -1,3 +1,7 @@
+<center>
+	<img src=".github/screenHome.png" alt="Dashboard Home Screen" >
+</center>
+
 # Shark Dashboard
 Shark Dashboard is an open source ssh administrative dashboard project, dedicated to the maintenance and control of virtual machine servers of unix operating systems.
 
