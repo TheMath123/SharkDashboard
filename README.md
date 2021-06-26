@@ -1,5 +1,5 @@
 <center>
-	<img src=".github/screenHome.png" alt="Dashboard Home Screen" >
+	<img src=".github/dashboard.svg" alt="Dashboard Home Screen" >
 </center>
 
 # Shark Dashboard
