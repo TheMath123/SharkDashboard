@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --dark-blue: #0f1d32;
+  --deep-blue: #3b4650;
+  --white: #ffffff;
+  --light-blue: #0057a8;
+  --red: #c71a1a;
+  --green: #198b17;
+  --yellow: #ffe600;
+  --black: #000000;
+} 
+
+body {
+  background: var(--deep-blue);
+}
+
+.titleDisplay {
+  font-family: 'Red Rose', cursive;
+  font-size: 24px;
+}
+
+title {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.textNormal {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+}
+
+.textHighlight {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+}
+
+.btnShell {
+  font-family: 'Fira Code', monospace;
+  font-size: 18px;
+}
+
+.textShell {
+  font-family: 'Fira Code', monospace;
+  font-size: 12px;
+}
+
+.textBtnShell {
+  font-family: 'Fira Code', monospace;
+  font-size: 18px;
+}

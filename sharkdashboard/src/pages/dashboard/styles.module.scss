@@ -1,0 +1,17 @@
+.app {
+  display: grid;
+  grid-template-columns: 6.375rem 1fr;
+  grid-template-areas: 'menu space';
+
+  height: 100vh;
+  
+  overflow-y: scroll;
+
+  Menu {
+    grid-area: menu;
+  }
+  
+  main {
+    grid-area: space;
+  }
+}

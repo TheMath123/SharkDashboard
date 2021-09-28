@@ -1,7 +1,10 @@
+import './styles/globals.scss'
+import styles from './styles/app.module.scss';
+
 export default function App() {
   return (
-  <div>
-    <h1>Hello World</h1>
+  <div className={styles.main}>
+    <img src="logo.svg" alt="SharkDashboard" />
   </div>
   );
 }

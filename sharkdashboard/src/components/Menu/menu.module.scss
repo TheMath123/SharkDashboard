@@ -1,0 +1,48 @@
+.menu {
+  background: var(--dark-blue);
+
+  width: 100%;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+
+  header {
+    margin-top: 1rem;
+  }
+
+  main {
+    height: 100%;
+  }
+
+  footer {
+    display: flex;
+    flex-direction: column;
+
+    width: 100%;
+    margin-bottom: 1.25rem;
+    justify-self: flex-end;
+
+    .settings {
+      background: transparent;
+      border: none;
+
+      .imgSettings {
+        opacity: 0.75;
+
+        transition: opacity 0.2s;
+      }
+
+      .imgSettings:hover{
+        opacity: 1;
+      }
+    }
+  }
+
+  .line {
+    margin: 1rem 0;
+    padding: 0 0.62rem;
+    border-bottom: solid 1px var(--deep-blue);
+  }
+}
